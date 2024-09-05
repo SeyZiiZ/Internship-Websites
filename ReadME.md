@@ -3,5 +3,8 @@ During my summer internship, I developed two websites, showcasing my skills in b
 
 Feel free to explore the sites here:
 
-Avis Gagnant
-AppyVault
+Avis Gagnant :
+https://www.avisgagnant.com/
+
+AppyVault : 
+https://www.appyvault.com/login
