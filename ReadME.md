@@ -7,4 +7,4 @@ Avis Gagnant :
 https://www.avisgagnant.com/
 
 AppyVault : 
-http://www.appyvault.com/login
+www.appyvault.com/login
